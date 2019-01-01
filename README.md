@@ -1,5 +1,5 @@
-# Trivia Game (Powered by API)
-Trivia Game using API to obtain Trivia Questions & JavaScript for the logic.
+# Trivia Game
+Trivia Game using API to obtain questions, JavaScript for the logic, and CSS animations.
 Bootcamp Assignment 9/8/2018
 
 ## Demo
