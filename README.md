@@ -1,5 +1,6 @@
 # Trivia Game
 Trivia Game using API to obtain questions, JavaScript for the logic, and CSS animations.
+Purpose is to learn and demonstrate timers.
 Bootcamp Assignment 9/8/2018
 
 ## Demo
